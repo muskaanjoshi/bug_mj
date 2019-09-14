@@ -1,6 +1,3 @@
-//code for the user to choose the dimensions of the array
-// check whether matrix multiplication is possible
-//perform the multiplication accordingly
 #include<stdio.h>
 int main()
 {  int x,r1,c1,r2,c2,r3,c3,k,i,j,arr[10][10],ar[10][10],pro[10][10]={{0}};
